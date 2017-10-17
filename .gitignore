@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore Build, tmp and transpiled TypeScript
+build
+.tmp
+src/**/*.map
+src/**/*.js
