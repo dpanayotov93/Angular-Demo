@@ -1,2 +1,2 @@
 # Angular-Demo
-Angular Demo GIT for work exercising 
+Angular Demo GIT for work exercising and training
